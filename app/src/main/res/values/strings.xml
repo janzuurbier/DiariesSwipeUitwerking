@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiariesWithSwipe</string>
+    <string name="sign_in">Sign In</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_content_pager">ContentPager</string>
+</resources>
